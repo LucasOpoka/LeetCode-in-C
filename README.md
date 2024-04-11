@@ -4,6 +4,7 @@ My C solutions to LeetCode problems
 No  |  Problem  |  Solution  |  Runtime (Percentile)  
 :-------|:-------|:-------|:-------:
 1.|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](<Solutions/0001. Two Sum>)|0ms (100%)
+402.|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)|[Solution](<Solutions/0402. Remove K Digits>)|0ms (100%)
 678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)|[Solution](<Solutions/0678. Valid Parenthesis String>)|0ms (100%)
 950.|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)|[Solution](<Solutions/0950. Reveal Cards In Increasing Order>)|5ms (100%)
 1249.|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description)|[Solution](<Solutions/1249. Minimum Remove to Make Valid Parentheses>)|3ms (98%)
